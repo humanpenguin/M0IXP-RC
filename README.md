@@ -1,5 +1,5 @@
 # M0IXP-RC
-M0IXP-RC is designed to be a simple GUI pased Antenna Rotator Controller using python3. 
+M0IXP-RC is designed to be a simple GUI based Antenna Rotator Controller using python3. 
 
 It will connect to any GS232 enabled rotator controller. providing a simple config and controll interface. 
 
