@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-09-22 21:03+0100\n"
+"PO-Revision-Date: 2020-09-22 22:14+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es_ES\n"
+
+#: config.py:15
+msgid "Configuration Setup"
+msgstr "Ajustes de configuración"
+
+#: config.py:28
+msgid "Configuration File Name."
+msgstr "Nombre del archivo de configuración."
+
+#: config.py:32
+msgid "Configuration File"
+msgstr "Archivo de configuración"
+
+#: config.py:33
+msgid "Config File"
+msgstr "Archivo de configuración"
+
+#: config.py:35
+msgid "Configuration Filename"
+msgstr "Nombre del archivo de configuración"

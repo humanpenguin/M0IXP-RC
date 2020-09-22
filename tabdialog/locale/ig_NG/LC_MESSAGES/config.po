@@ -1,0 +1,43 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-09-22 21:03+0100\n"
+"PO-Revision-Date: 2020-09-22 21:50+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+"X-Generator: Poedit 2.4.1\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ig_NG\n"
+
+#: config.py:15
+#, fuzzy
+msgid "Configuration Setup"
+msgstr "Ntọala"
+
+#: config.py:28
+#, fuzzy
+msgid "Configuration File Name."
+msgstr "Isetịpụ File Aha"
+
+#: config.py:32
+#, fuzzy
+msgid "Configuration File"
+msgstr "Isetịpụ File"
+
+#: config.py:33
+#, fuzzy
+msgid "Config File"
+msgstr "Isetịpụ File"
+
+#: config.py:35
+#, fuzzy
+msgid "Configuration Filename"
+msgstr "Isetịpụ File Aha"
