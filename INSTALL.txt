@@ -1,0 +1,9 @@
+M0IXP-RC
+
+M0IXP-Rotator Control
+
+This software is intended to use included Python 3 Libs.
+
+It is currently in early beta so please only try out if you are able to build the environment yourself.
+
+Written using Python 3.8 Tkinter and pySerial
